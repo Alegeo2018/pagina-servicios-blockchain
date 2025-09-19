@@ -1,11 +1,11 @@
-# pagina-servicios-blockchain
-<!DOCTYPE html>
+# servicios-blockchain-IA
+<<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Consultoría Blockchain & DeFi — Tu Nombre</title>
-  <meta name="description" content="Consultoría en blockchain, criptomonedas, DeFi y contratos inteligentes. Comunidad con planes Básico, Intermedio y Avanzado; guía en ingresos pasivos (Hydros & airdrops) y soporte experto." />
+  <meta name="description" content="Consultoría en blockchain, criptomonedas, DeFi y contratos inteligentes. Comunidad con planes Básico, Intermedio y Avanzado; guía en ingresos pasivos (DeFi & airdrops) y soporte experto." />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
@@ -176,7 +176,7 @@
     </section>
 
     <section id="ingresos">
-      <h2>Ingresos Pasivos (Hydros & Airdrops)</h2>
+      <h2>Ingresos Pasivos (DeFi & Airdrops)</h2>
       <p>Metodología para identificar oportunidades reales y minimizar riesgos.</p>
     </section>
 
@@ -200,7 +200,7 @@
       <h2>Contacto</h2>
       <p><i class="ph ph-whatsapp-logo"></i> <a href="https://wa.me/573104106551" target="_blank">+57 310 410 6551</a> — Business</p>
       <p><i class="ph ph-whatsapp-logo"></i> <a href="https://wa.me/573122615844" target="_blank">+57 312 261 5844</a> — Profesional</p>
-      <p><i class="ph ph-envelope"></i> <a href="mailto:tucorreo@ejemplo.com">tucorreo@ejemplo.com</a></p>
+      <p><i class="ph ph-envelope"></i> <a href="mailto:nftcryptolab2030@gmail.com">nftcryptolab2030@gmail.com</a></p>
     </section>
   </main>
 
@@ -213,4 +213,3 @@
   </script>
 </body>
 </html>
-
