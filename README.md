@@ -64,22 +64,7 @@
 
   <footer>
     © 2025 Consultoría Blockchain &amp; DeFi — nftcryptolab2030@gmail.com
-  </footer>
-</body>
-</html>
-/public/index.html
-/public/css/style.css
-/vercel.json  (opcional)
-/README.md
-<link rel="stylesheet" href="css/style.css" />
 
-<link rel="stylesheet" href="css/style.css" />
-{
-  "outputDirectory": "public"
-}
-git add .
-git commit -m "Ajuste estructura para despliegue en Vercel"
-git push
 
 
 
